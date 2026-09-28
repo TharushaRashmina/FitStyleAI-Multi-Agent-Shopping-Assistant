@@ -11,7 +11,7 @@ class SQLServerRepository:
 
         self.connection_string = (
             "DRIVER={ODBC Driver 18 for SQL Server};"
-            "SERVER=localhost\\MSSQLSERVER4;"
+            "SERVER=localhost;"
             "DATABASE=FitStyleAI;"
             "Trusted_Connection=yes;"
             "TrustServerCertificate=yes;"
@@ -542,6 +542,262 @@ class SQLServerRepository:
                     filters["size"]
                 ).strip()
             )
+
+
+        # -----------------------------------------
+        # Explicit exclusions / negative constraints
+        # -----------------------------------------
+
+        exclusions = filters.get(
+            "exclusions",
+            []
+        )
+
+        if exclusions is None:
+            exclusions = []
+
+        if not isinstance(
+            exclusions,
+            list
+        ):
+            raise TypeError(
+                "filters['exclusions'] must be a list."
+            )
+
+
+        for exclusion in exclusions:
+
+            if not isinstance(
+                exclusion,
+                dict
+            ):
+                continue
+
+            exclusion_conditions = []
+            exclusion_parameters = []
+
+
+            # Category is an exact canonical field.
+            if exclusion.get("category"):
+
+                exclusion_conditions.append(
+                    """
+                    LOWER(
+                        COALESCE(
+                            p.category,
+                            ''
+                        )
+                    ) = ?
+                    """
+                )
+
+                exclusion_parameters.append(
+                    str(
+                        exclusion["category"]
+                    ).strip().lower()
+                )
+
+
+            if exclusion.get(
+                "target_group"
+            ):
+
+                exclusion_conditions.append(
+                    """
+                    LOWER(
+                        COALESCE(
+                            p.target_group,
+                            ''
+                        )
+                    ) = ?
+                    """
+                )
+
+                exclusion_parameters.append(
+                    str(
+                        exclusion[
+                            "target_group"
+                        ]
+                    ).strip().lower()
+                )
+
+
+            if exclusion.get("material"):
+
+                exclusion_conditions.append(
+                    """
+                    LOWER(
+                        COALESCE(
+                            p.material,
+                            ''
+                        )
+                    ) LIKE ?
+                    """
+                )
+
+                exclusion_parameters.append(
+                    "%"
+                    + str(
+                        exclusion["material"]
+                    ).strip().lower()
+                    + "%"
+                )
+
+
+            if exclusion.get("style"):
+
+                exclusion_conditions.append(
+                    """
+                    LOWER(
+                        COALESCE(
+                            p.style,
+                            ''
+                        )
+                    ) LIKE ?
+                    """
+                )
+
+                exclusion_parameters.append(
+                    "%"
+                    + str(
+                        exclusion["style"]
+                    ).strip().lower()
+                    + "%"
+                )
+
+
+            # Multiple colors inside one exclusion are
+            # alternatives. Example: "not red or blue".
+            colors = exclusion.get(
+                "colors",
+                []
+            )
+
+            if isinstance(
+                colors,
+                str
+            ):
+                colors = [colors]
+
+            color_conditions = []
+
+            for color in colors:
+
+                normalized_color = (
+                    str(color)
+                    .strip()
+                    .lower()
+                )
+
+                if not normalized_color:
+                    continue
+
+                # Product name is checked as a backup
+                # because the current dataset has many
+                # missing values in the color column.
+                color_conditions.append(
+                    """
+                    (
+                        LOWER(
+                            COALESCE(
+                                p.color,
+                                ''
+                            )
+                        ) LIKE ?
+                        OR LOWER(
+                            COALESCE(
+                                p.product_name,
+                                ''
+                            )
+                        ) LIKE ?
+                    )
+                    """
+                )
+
+                color_value = (
+                    "%"
+                    + normalized_color
+                    + "%"
+                )
+
+                exclusion_parameters.extend([
+                    color_value,
+                    color_value
+                ])
+
+            if color_conditions:
+
+                exclusion_conditions.append(
+                    "("
+                    + " OR ".join(
+                        color_conditions
+                    )
+                    + ")"
+                )
+
+
+            # A product-specific term preserves compound
+            # meaning. Example: blue + jean means exclude
+            # blue jeans, not every blue product.
+            if exclusion.get("term"):
+
+                term_value = (
+                    "%"
+                    + str(
+                        exclusion["term"]
+                    ).strip().lower()
+                    + "%"
+                )
+
+                exclusion_conditions.append(
+                    """
+                    (
+                        LOWER(
+                            COALESCE(
+                                p.product_name,
+                                ''
+                            )
+                        ) LIKE ?
+                        OR LOWER(
+                            COALESCE(
+                                p.sub_category,
+                                ''
+                            )
+                        ) LIKE ?
+                        OR LOWER(
+                            COALESCE(
+                                p.pattern,
+                                ''
+                            )
+                        ) LIKE ?
+                    )
+                    """
+                )
+
+                exclusion_parameters.extend([
+                    term_value,
+                    term_value,
+                    term_value
+                ])
+
+
+            # Exclude a product only when ALL fields in
+            # this exclusion object match. This preserves
+            # the scope of compound constraints such as
+            # "do not show blue jeans".
+            if exclusion_conditions:
+
+                conditions.append(
+                    "NOT ("
+                    + " AND ".join(
+                        exclusion_conditions
+                    )
+                    + ")"
+                )
+
+                parameters.extend(
+                    exclusion_parameters
+                )
 
 
         # -----------------------------------------
