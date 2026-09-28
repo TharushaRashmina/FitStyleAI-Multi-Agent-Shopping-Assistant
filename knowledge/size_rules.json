@@ -1,0 +1,68 @@
+{
+    "matching_rules": {
+        "letter_size": {
+            "examples": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "3XL",
+                "4XL"
+            ],
+            "rule": "Recommend only when the exact requested size exists in product_variants_final.csv and available is true."
+        },
+        "waist_size": {
+            "examples": [
+                "26",
+                "28",
+                "30",
+                "32",
+                "34",
+                "36",
+                "38"
+            ],
+            "rule": "For trousers, jeans, skirts and similar products, match the exact numeric waist size when available."
+        },
+        "shoe_size": {
+            "examples": [
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "rule": "Recommend only the exact shoe size available for that product."
+        },
+        "collar_size": {
+            "examples": [
+                "15",
+                "15.5",
+                "16",
+                "16.5"
+            ],
+            "rule": "For formal shirts, use the exact collar size when the product uses collar-size variants."
+        }
+    },
+    "availability_rules": {
+        "exact_size_available": "recommend",
+        "exact_size_unavailable": "do_not_recommend_as_exact_match",
+        "size_missing_from_product": "do_not_invent_size"
+    },
+    "confidence_rules": {
+        "high": "Exact requested size exists and available is true.",
+        "medium": "Product matches style/category but user did not provide a size.",
+        "low": "Size information is incomplete; show product only with a clear warning."
+    },
+    "safety_rules": [
+        "Never create a size that does not exist in the retailer data.",
+        "Never convert body measurements to a brand size unless a verified brand size chart is available.",
+        "Never claim perfect fit.",
+        "If the requested size is unavailable, show alternative products with the requested size instead."
+    ]
+}

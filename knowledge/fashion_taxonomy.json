@@ -1,0 +1,70 @@
+{
+    "categories": {
+        "tops": [
+            "t-shirt",
+            "shirt",
+            "polo",
+            "blouse",
+            "top"
+        ],
+        "bottoms": [
+            "jeans",
+            "trousers",
+            "pants",
+            "shorts",
+            "skirt",
+            "chino"
+        ],
+        "dresses": [
+            "dress",
+            "jumpsuit"
+        ],
+        "footwear": [
+            "shoes",
+            "heels",
+            "sandals",
+            "sneakers"
+        ]
+    },
+    "target_groups": [
+        "men",
+        "women",
+        "boys",
+        "girls",
+        "teen"
+    ],
+    "materials": [
+        "cotton",
+        "linen",
+        "polyester",
+        "denim",
+        "viscose",
+        "rayon",
+        "silk",
+        "elastane"
+    ],
+    "fits": [
+        "slim",
+        "regular",
+        "relaxed",
+        "oversized",
+        "bodycon"
+    ],
+    "styles": [
+        "casual",
+        "formal",
+        "smart casual",
+        "business casual",
+        "party",
+        "activewear"
+    ],
+    "occasions": [
+        "office",
+        "interview",
+        "casual outing",
+        "party",
+        "wedding",
+        "date",
+        "university"
+    ]
+}
