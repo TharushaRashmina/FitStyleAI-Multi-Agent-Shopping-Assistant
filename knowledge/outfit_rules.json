@@ -1,0 +1,213 @@
+{
+    "occasion_rules": {
+        "interview": {
+            "preferred_styles": [
+                "formal",
+                "smart casual",
+                "business casual"
+            ],
+            "required_categories": [
+                "tops",
+                "bottoms",
+                "footwear"
+            ],
+            "optional_categories": [
+                "accessories"
+            ],
+            "avoid_styles": [
+                "activewear",
+                "party"
+            ]
+        },
+        "office": {
+            "preferred_styles": [
+                "formal",
+                "smart casual",
+                "business casual",
+                "workwear"
+            ],
+            "required_categories": [
+                "tops",
+                "bottoms",
+                "footwear"
+            ],
+            "optional_categories": [
+                "accessories",
+                "bags"
+            ]
+        },
+        "casual_outing": {
+            "preferred_styles": [
+                "casual"
+            ],
+            "required_categories": [
+                "tops",
+                "bottoms"
+            ],
+            "optional_categories": [
+                "footwear",
+                "bags",
+                "accessories"
+            ]
+        },
+        "party": {
+            "preferred_styles": [
+                "party",
+                "casual"
+            ],
+            "required_categories": [
+                "dresses"
+            ],
+            "alternative_categories": [
+                "tops",
+                "bottoms"
+            ],
+            "optional_categories": [
+                "footwear",
+                "bags",
+                "accessories"
+            ]
+        },
+        "wedding": {
+            "preferred_styles": [
+                "formal",
+                "party"
+            ],
+            "required_categories": [
+                "dresses"
+            ],
+            "alternative_categories": [
+                "ethnic_wear"
+            ],
+            "optional_categories": [
+                "footwear",
+                "bags",
+                "accessories"
+            ]
+        },
+        "date": {
+            "preferred_styles": [
+                "casual",
+                "smart casual"
+            ],
+            "required_categories": [
+                "tops",
+                "bottoms"
+            ],
+            "alternative_categories": [
+                "dresses"
+            ],
+            "optional_categories": [
+                "footwear",
+                "bags",
+                "accessories"
+            ]
+        },
+        "university": {
+            "preferred_styles": [
+                "casual",
+                "smart casual"
+            ],
+            "required_categories": [
+                "tops",
+                "bottoms"
+            ],
+            "optional_categories": [
+                "footwear",
+                "bags"
+            ]
+        }
+    },
+    "color_compatibility": {
+        "black": [
+            "white",
+            "grey",
+            "beige",
+            "red",
+            "blue",
+            "pink"
+        ],
+        "white": [
+            "black",
+            "navy",
+            "blue",
+            "grey",
+            "beige",
+            "brown"
+        ],
+        "navy": [
+            "white",
+            "beige",
+            "grey",
+            "brown",
+            "cream"
+        ],
+        "blue": [
+            "white",
+            "black",
+            "grey",
+            "beige",
+            "brown"
+        ],
+        "grey": [
+            "black",
+            "white",
+            "navy",
+            "blue",
+            "pink"
+        ],
+        "beige": [
+            "white",
+            "black",
+            "navy",
+            "brown",
+            "olive"
+        ],
+        "brown": [
+            "white",
+            "beige",
+            "cream",
+            "olive",
+            "blue"
+        ],
+        "red": [
+            "black",
+            "white",
+            "grey",
+            "beige"
+        ],
+        "pink": [
+            "white",
+            "black",
+            "grey",
+            "beige",
+            "navy"
+        ],
+        "green": [
+            "white",
+            "black",
+            "beige",
+            "brown"
+        ],
+        "olive": [
+            "white",
+            "black",
+            "beige",
+            "brown"
+        ],
+        "cream": [
+            "black",
+            "navy",
+            "brown",
+            "beige"
+        ]
+    },
+    "ranking_weights": {
+        "occasion_match": 0.30,
+        "style_match": 0.20,
+        "budget_match": 0.20,
+        "size_available": 0.15,
+        "color_compatibility": 0.10,
+        "availability": 0.05
+    }
+}
