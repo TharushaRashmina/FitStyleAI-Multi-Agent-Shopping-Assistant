@@ -1,0 +1,719 @@
+{
+    "products": [
+        {
+            "id": 9506315239736,
+            "title": "Hugo Boss Bottled Night Eau de Toilette - 100ml",
+            "handle": "hugo-boss-bottled-night-eau-de-toilette-100ml",
+            "body_html": "<p><b>PRODUCT DETAILS</b> <span style=\"color: #6a6e78; font-family: Netto W04 Regular, Tahoma, sans-serif;\">Original Authentic Product</span> <strong translate=\"no\">Hugo Boss Boss Bottled Night Eau de Toilette</strong> is an intense and spicy fragrance with a determined and avant-garde character. Inspired by the seductive atmosphere of a summer night, when every goal and every whim feels within arm's reach, this eau de toilette allows you to unleash your potential. A fresh, vibrant opening of birch leaves and lavender makes way for an intense heart of African violet, spicy cardamom, and opulent jasmine. The provocative composition then rests on a base of warm, precious nuances of Louro Amarelo tree, sensual musk, and classic sandalwood. In order to complement this seductive fragrance, the iconic <strong translate=\"no\">Boss Bottled</strong> flacon is enveloped in enticing shades of midnight blue and black, which perfectly capture the mysterious essence of the composition.</p>\n<h2>Notes</h2>\n<ul>\n<li>Top notes: birch leaves, lavender;</li>\n<li>Heart notes: cardamom, African violet, jasmine;</li>\n<li>Base notes: Louro Amarelo tree, sandalwood, musk.</li>\n</ul>\n<h2>Characteristics</h2>\n<ul>\n<li>Suggested for: men;</li>\n<li>Family: Woody;</li>\n<li>Created in: 2010.</li>\n</ul>\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\n<p> </p>",
+            "published_at": "2026-08-10T12:09:24+05:30",
+            "created_at": "2024-07-29T10:06:53+05:30",
+            "updated_at": "2026-08-14T15:02:51+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 49064895709496,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA11726",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17990.00",
+                    "grams": 1100,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 9506315239736,
+                    "created_at": "2024-07-29T10:06:54+05:30",
+                    "updated_at": "2026-08-14T15:02:51+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 46847128568120,
+                    "created_at": "2024-07-29T10:06:54+05:30",
+                    "position": 1,
+                    "updated_at": "2024-07-29T10:06:57+05:30",
+                    "product_id": 9506315239736,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA11726.png?v=1722227817",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9506301706552,
+            "title": "Davidoff Cool Water for Men Eau de Toilette - 125ml",
+            "handle": "davidoff-cool-water-for-men-eau-de-toilette-125ml",
+            "body_html": "<b>PRODUCT DETAILS</b>\r\n\r\n<span style=\"color: #6a6e78; font-family: Netto W04 Regular, Tahoma, sans-serif;\">Original Authentic Product</span>\r\n<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\r\n \t<li><span class=\"a-list-item\">Cool Water by Davidoff is a Aromatic Aquatic fragrance for men.</span></li>\r\n \t<li><span class=\"a-list-item\">Cool Water was launched in 1988. The nose behind this fragrance is Pierre Bourdon.</span></li>\r\n \t<li><span class=\"a-list-item\">Top notes are Sea water, Lavender, Mint, Green Notes, Rosemary, Calone and Coriander; middle notes are Sandalwood, Neroli, Geranium and Jasmine; base notes are Musk, Tobacco, Oakmoss, Cedar and Amber.</span></li>\r\n \t<li><span class=\"a-list-item\">Cool Water was launched in 1988. The nose behind this fragrance is Pierre Bourdon.</span></li>\r\n \t<li><span class=\"a-list-item\">Top notes are Sea water, Lavender, Mint, Green Notes, Rosemary, Calone and Coriander; middle notes are Sandalwood, Neroli, Geranium and Jasmine; base notes are Musk, Tobacco, Oakmoss, Cedar and Amber.</span></li>\r\n</ul>\r\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\r\n ",
+            "published_at": "2026-08-10T12:05:33+05:30",
+            "created_at": "2024-07-29T09:53:11+05:30",
+            "updated_at": "2026-08-14T15:02:51+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 49064867758392,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA11619",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "14990.00",
+                    "grams": 400,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 9506301706552,
+                    "created_at": "2024-07-29T09:53:11+05:30",
+                    "updated_at": "2026-08-14T15:02:51+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 46847089770808,
+                    "created_at": "2024-07-29T09:53:11+05:30",
+                    "position": 1,
+                    "updated_at": "2024-07-29T09:53:14+05:30",
+                    "product_id": 9506301706552,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA11619.png?v=1722226994",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10801831313720,
+            "title": "9:30 AM Aqua Eau De Parfum for Men - 100ml",
+            "handle": "aswad-aqua-edp-100ml-copy",
+            "body_html": "<p>9:30 AM Aqua: A Breath of Crisp Morning Air</p>\n<p>Start your day with the invigorating energy of 9:30 AM Aqua. While the evening calls for warmth and spice, the morning demands clarity. This 100ml Eau de Parfum is a tribute to the power of the ocean, blending salt-kissed marine notes with a vibrant citrus burst that instantly awakens the senses. It is the olfactory equivalent of a cold splash of water on a summer morning.</p>\n<p>The fragrance opens with a sharp, cooling blend of grapefruit and bergamot, leading into a refined aromatic heart of lavender and sage that adds a touch of sophisticated masculinity. As the day progresses, the scent grounds itself in a clean base of amber and musk, ensuring that the \"freshly showered\" feeling stays with you through your commute and well into your afternoon meetings. Housed in a striking azure blue and silver box, 9:30 AM Aqua is the definitive choice for the modern man who values a crisp, professional, and undeniably fresh presence.</p>\n<ul>\n<li>Gender: Masculine / Unisex</li>\n<li>Fragrance Type: Eau de Parfum (EDP)</li>\n<li>Fragrance Family: Aquatic / Fresh Citrus</li>\n<li>Top: Marine Accords, Bergamot, Grapefruit</li>\n<li>Heart: Lavender, Sage, Rosemary</li>\n<li>Base: Amber, Patchouli, Musk</li>\n<li>Best Season: Summer &amp; Spring (Perfect for high heat)</li>\n<li>Ideal Occasions: Office, Morning workouts, Casual daytime outings, or Travel</li>\n<li>Performance: High projection and long-lasting freshness</li>\n<li>Concentration: 80% Vol. (High-concentration EDP)</li>\n</ul>\n<div class=\"shopify-section\" id=\"shopify-section-template--22872435622200__main\">\n<div id=\"ProductSection-template--22872435622200__main\" class=\"vertical product-details product-default\">\n<div class=\"productView-bottom\">\n<div class=\"container\">\n<div class=\"tabs-contents tabs-contents-horizontal clearfix halo-text-format\">\n<div id=\"tab-description\" class=\"tab-content is-active\">\n<div id=\"tab-description-mobile\" class=\"toggle-content is-active show-mobile\">\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"shopify-section halo-product-block-sections\" id=\"shopify-section-template--22872435622200__product-recommendations\">\n<div id=\"halo-recommendations-block-template--22872435622200__product-recommendations\" class=\"halo-block halo-product-block halo-recommendations-block section-block-template--22872435622200__product-recommendations\">\n<div class=\"wrapper-container container\"><br></div>\n</div>\n</div>\n<p><br></p>",
+            "published_at": "2026-08-02T10:14:32+05:30",
+            "created_at": "2026-08-02T10:10:58+05:30",
+            "updated_at": "2026-08-14T15:02:51+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 52728604524856,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA16627",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "1490.00",
+                    "grams": 400,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 10801831313720,
+                    "created_at": "2026-08-02T10:10:58+05:30",
+                    "updated_at": "2026-08-14T15:02:51+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 68174787510584,
+                    "created_at": "2026-08-02T10:18:40+05:30",
+                    "position": 1,
+                    "updated_at": "2026-08-02T10:18:42+05:30",
+                    "product_id": 10801831313720,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/NewProject_2_eb2e8776-0228-4053-bd22-ff4827965fb0.png?v=1785646122",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10774955196728,
+            "title": "French Avenue Nabatieh Extrait de Parfum - 90ml",
+            "handle": "venus-de-milo-perfume-edp-by-french-avenue-100ml-copy",
+            "body_html": "<div class=\"desc-content\">\n<div class=\"show-more-text show has-show-more\">\n<div class=\"show-more-text-content\">\n<div class=\"m152i0kl e1v18fwl\">\n<div id=\"pd-description-text\" data-testid=\"pd-description-text\" class=\"dpppq6z\"></div>\n</div>\n<div id=\"shopify-section-template--22872435622200__main\" class=\"shopify-section\">\n<div class=\"vertical product-details product-default\" data-section-id=\"template--22872435622200__main\" data-section-type=\"product\" id=\"ProductSection-template--22872435622200__main\" data-has-combo=\"false\" data-image-opo=\"\">\n<div class=\"productView-bottom\">\n<div class=\"container\">\n<div class=\"tabs-contents tabs-contents-horizontal clearfix halo-text-format\">\n<div class=\"tab-content is-active\" id=\"tab-description\">\n<div class=\"toggle-content is-active show-mobile\" id=\"tab-description-mobile\" data-product-description-10724511908152=\"\">\n<p data-start=\"86\" data-end=\"437\">Bold, luxurious, and deeply captivating, French Avenue Nabatieh Extrait de Parfum 90ml (2026) is a rich oriental fragrance that blends spicy warmth with creamy sweetness and smoky woods. Inspired by Middle Eastern perfumery traditions, this powerful extrait concentration delivers a smooth yet intense scent designed to leave a lasting impression.</p>\n<p data-start=\"439\" data-end=\"630\">Opulent and sophisticated, Nabatieh wraps you in warm spices, rich resins, and sensual woods—creating a distinctive signature fragrance for those who appreciate bold and elegant compositions.</p>\n<h3 data-section-id=\"qnxdsc\" data-start=\"637\" data-end=\"656\">Fragrance Notes</h3>\n<p data-start=\"658\" data-end=\"817\">Top Notes: Cinnamon, Nutmeg, Bergamot<br data-start=\"703\" data-end=\"706\">A vibrant opening of warm spices balanced with citrus freshness creates an inviting and energetic introduction.</p>\n<p data-start=\"819\" data-end=\"930\">Middle Notes: Incense, Lavender, Amber<br data-start=\"864\" data-end=\"867\">A smoky and aromatic heart adds depth and luxurious complexity.</p>\n<p data-start=\"932\" data-end=\"1100\">Base Notes: Vanilla, Sandalwood, Patchouli, Musk<br data-start=\"987\" data-end=\"990\">A rich base of creamy vanilla and smooth woods blends with patchouli and musk for a warm, long-lasting finish.</p>\n<h3 data-section-id=\"1orspav\" data-start=\"1107\" data-end=\"1129\">Why You’ll Love It</h3>\n<p data-start=\"1131\" data-end=\"1230\">Extrait Strength Performance: High concentration ensures powerful longevity and projection.</p>\n<p data-start=\"1232\" data-end=\"1316\">Warm &amp; Addictive: A luxurious blend of spices, amber, and creamy sweetness.</p>\n<p data-start=\"1318\" data-end=\"1383\">Unisex Appeal: Bold yet balanced for both men and women.</p>\n<p data-start=\"1385\" data-end=\"1478\">Statement Fragrance: Designed for confident personalities who enjoy deep, rich scents.</p>\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\"></h4>\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"shopify-section-template--22872435622200__product-recommendations\" class=\"shopify-section halo-product-block-sections\">\n<div class=\"halo-block halo-product-block halo-recommendations-block section-block-template--22872435622200__product-recommendations\" id=\"halo-recommendations-block-template--22872435622200__product-recommendations\" data-limit=\"6\" data-layout=\"slider\" data-url=\"/recommendations/products?section_id=template--22872435622200__product-recommendations&amp;product_id=10724511908152&amp;limit=6\" data-image-ratio=\"\" data-swipe=\"false\" data-recommendations-block=\"\">\n<div class=\"wrapper-container container\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+            "published_at": "2026-07-15T17:50:14+05:30",
+            "created_at": "2026-07-15T17:44:48+05:30",
+            "updated_at": "2026-08-14T15:02:55+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 52642566930744,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA16511",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "18990.00",
+                    "grams": 1100,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 10774955196728,
+                    "created_at": "2026-07-15T17:44:48+05:30",
+                    "updated_at": "2026-08-14T15:02:55+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 66319370453304,
+                    "created_at": "2026-07-15T17:45:04+05:30",
+                    "position": 1,
+                    "updated_at": "2026-07-15T17:45:05+05:30",
+                    "product_id": 10774955196728,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA16511.png?v=1784117705",
+                    "width": 1000,
+                    "height": 1400
+                },
+                {
+                    "id": 66319370420536,
+                    "created_at": "2026-07-15T17:45:04+05:30",
+                    "position": 2,
+                    "updated_at": "2026-07-15T17:45:05+05:30",
+                    "product_id": 10774955196728,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA16511_2.png?v=1784117705",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10774816784696,
+            "title": "French Avenue Fierte - 80ml",
+            "handle": "french-avenue-le-falcon-dubai-100ml-copy",
+            "body_html": "<div class=\"desc-content\">\n<div class=\"show-more-text show has-show-more\">\n<div class=\"show-more-text-content\">\n<div class=\"m152i0kl e1v18fwl\">\n<div id=\"pd-description-text\" data-testid=\"pd-description-text\" class=\"dpppq6z\"></div>\n</div>\n<div id=\"shopify-section-template--22872435622200__main\" class=\"shopify-section\">\n<div class=\"vertical product-details product-default\" data-section-id=\"template--22872435622200__main\" data-section-type=\"product\" id=\"ProductSection-template--22872435622200__main\" data-has-combo=\"false\" data-image-opo=\"\">\n<div class=\"productView-bottom\">\n<div class=\"container\">\n<div class=\"tabs-contents tabs-contents-horizontal clearfix halo-text-format\">\n<div class=\"tab-content is-active\" id=\"tab-description\">\n<div class=\"toggle-content is-active show-mobile\" id=\"tab-description-mobile\" data-product-description-10724511908152=\"\">\n<p><span>Awaken your inner wildness. French Avenue Fierté Eau de Parfum will envelop you in a warm veil of smoky and spicy notes that tell a story of courage and freedom. Fierté is a composition that will reveal its depth gradually, just like the person who wears it.</span></p>\n<p> </p>\n<table class=\"czfmaep\">\n<tbody>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">\n<div class=\"wvs9ouv\">Top notes</div>\n</td>\n<td class=\"c1egxfdy\">Saffron, Tobacco, Incense</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">\n<div class=\"wvs9ouv\">Middle notes</div>\n</td>\n<td class=\"c1egxfdy\">Spices, Cedar Wood, Elemi</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">\n<div class=\"wvs9ouv\">Base notes</div>\n</td>\n<td class=\"c1egxfdy\">Vanilla, Benzoin, Tonka Beans</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">Fragrance category</td>\n<td class=\"c1egxfdy\">spicy, musk</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">Concentration of the fragrance component</td>\n<td class=\"c1egxfdy\">Eau de Parfum</td>\n</tr>\n</tbody>\n</table>\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">\n<br>Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"shopify-section-template--22872435622200__product-recommendations\" class=\"shopify-section halo-product-block-sections\">\n<div class=\"halo-block halo-product-block halo-recommendations-block section-block-template--22872435622200__product-recommendations\" id=\"halo-recommendations-block-template--22872435622200__product-recommendations\" data-limit=\"6\" data-layout=\"slider\" data-url=\"/recommendations/products?section_id=template--22872435622200__product-recommendations&amp;product_id=10724511908152&amp;limit=6\" data-image-ratio=\"\" data-swipe=\"false\" data-recommendations-block=\"\">\n<div class=\"wrapper-container container\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+            "published_at": "2026-07-15T16:56:01+05:30",
+            "created_at": "2026-07-15T16:34:07+05:30",
+            "updated_at": "2026-08-14T15:02:55+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 52642240397624,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA16509",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "22990.00",
+                    "grams": 1100,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 10774816784696,
+                    "created_at": "2026-07-15T16:34:07+05:30",
+                    "updated_at": "2026-08-14T15:02:55+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 66315363025208,
+                    "created_at": "2026-07-15T16:34:26+05:30",
+                    "position": 1,
+                    "updated_at": "2026-07-15T16:34:28+05:30",
+                    "product_id": 10774816784696,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/ChatGPTImageJul15_2026_03_29_42PM_1.png?v=1784113468",
+                    "width": 1000,
+                    "height": 1400
+                },
+                {
+                    "id": 66315363057976,
+                    "created_at": "2026-07-15T16:34:26+05:30",
+                    "position": 2,
+                    "updated_at": "2026-07-15T16:34:28+05:30",
+                    "product_id": 10774816784696,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/ChatGPTImageJul15_2026_04_09_54PM_1.png?v=1784113468",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10774545432888,
+            "title": "French Avenue Le Falcon Dubai - 100ml",
+            "handle": "french-avenue-spectre-ghost-eau-de-parfum-80ml-copy",
+            "body_html": "<div class=\"desc-content\">\n<div class=\"show-more-text show has-show-more\">\n<div class=\"show-more-text-content\">\n<div class=\"c4vjg9m\"><br></div>\n<div class=\"m152i0kl e1v18fwl\">\n<div id=\"pd-description-text\" data-testid=\"pd-description-text\" class=\"dpppq6z\">\n<p><span>Forget all rules and limits. French Avenue Le Falcon Dubai unisex Eau de Parfum is perfect for anyone who dares to stand out from the crowd.</span></p>\n<p> </p>\n<table class=\"czfmaep\">\n<tbody>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">\n<div class=\"wvs9ouv\">Top notes</div>\n</td>\n<td class=\"c1egxfdy\">Pink Pepper, Saffron</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">\n<div class=\"wvs9ouv\">Middle notes</div>\n</td>\n<td class=\"c1egxfdy\">Artemisia, Mahonia</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">\n<div class=\"wvs9ouv\">Base notes</div>\n</td>\n<td class=\"c1egxfdy\">Cedar Wood, Incense, Akigalawood®</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">Fragrance category</td>\n<td class=\"c1egxfdy\">spicy, woody</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\">Concentration of the fragrance component</td>\n<td class=\"c1egxfdy\">Eau de Parfum</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div id=\"shopify-section-template--22872435622200__main\" class=\"shopify-section\">\n<div class=\"vertical product-details product-default\" data-section-id=\"template--22872435622200__main\" data-section-type=\"product\" id=\"ProductSection-template--22872435622200__main\" data-has-combo=\"false\" data-image-opo=\"\">\n<div class=\"productView-bottom\">\n<div class=\"container\">\n<div class=\"tabs-contents tabs-contents-horizontal clearfix halo-text-format\">\n<div class=\"tab-content is-active\" id=\"tab-description\">\n<div class=\"toggle-content is-active show-mobile\" id=\"tab-description-mobile\" data-product-description-10724511908152=\"\">\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\"><br></h4>\n<ul>\n<li>spicy fragrance</li>\n<li>woody fragrance</li>\n<li>unique fragrance for a unique personality</li>\n<li>unique fragrance for special occasions</li>\n<li>unisex fragrance</li>\n</ul>\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"shopify-section-template--22872435622200__product-recommendations\" class=\"shopify-section halo-product-block-sections\">\n<div class=\"halo-block halo-product-block halo-recommendations-block section-block-template--22872435622200__product-recommendations\" id=\"halo-recommendations-block-template--22872435622200__product-recommendations\" data-limit=\"6\" data-layout=\"slider\" data-url=\"/recommendations/products?section_id=template--22872435622200__product-recommendations&amp;product_id=10724511908152&amp;limit=6\" data-image-ratio=\"\" data-swipe=\"false\" data-recommendations-block=\"\">\n<div class=\"wrapper-container container\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+            "published_at": "2026-07-15T15:16:12+05:30",
+            "created_at": "2026-07-15T14:58:07+05:30",
+            "updated_at": "2026-08-14T15:02:55+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 52641823031608,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA16508",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "18990.00",
+                    "grams": 1100,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 10774545432888,
+                    "created_at": "2026-07-15T14:58:07+05:30",
+                    "updated_at": "2026-08-14T15:02:55+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 66309887000888,
+                    "created_at": "2026-07-15T15:15:45+05:30",
+                    "position": 1,
+                    "updated_at": "2026-07-15T15:15:46+05:30",
+                    "product_id": 10774545432888,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA16508.png?v=1784108746",
+                    "width": 1000,
+                    "height": 1400
+                },
+                {
+                    "id": 66309708349752,
+                    "created_at": "2026-07-15T15:13:51+05:30",
+                    "position": 2,
+                    "updated_at": "2026-07-15T15:13:54+05:30",
+                    "product_id": 10774545432888,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/FullSizeRender_45151483-bc44-4724-8b07-333d4aa25684.png?v=1784108634",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10772845166904,
+            "title": "French Avenue Spectre Ghost Eau De Parfum - 80ml",
+            "handle": "french-avenue-aromatix-forbidden-fruit-extrait-de-parfum-100ml-copy",
+            "body_html": "<div class=\"desc-content\">\n<div class=\"show-more-text show has-show-more\">\n<div class=\"show-more-text-content\">\n<p>French Avenue Spectre Ghost Eau De Parfum – Spicy Woody Vanilla Signature Scent.</p>\n<p>French Avenue Spectre Ghost opens with a burst of fresh spices and citrus that feels vibrant and inviting. The top blends ginger, bergamot, and cardamom for a lively and energizing first impression. This modern aromatic profile transitions smoothly into a rich heart of blackcurrant, pink pepper, and rose. The combination adds a fruity-floral depth that keeps the scent nuanced and sophisticated.</p>\n<p>As the fragrance settles, Spectre Ghost reveals a warm and sensual base of vanilla, cedarwood, and patchouli that lingers beautifully on skin. The rich dry-down creates a smooth, comforting trail that feels both bold and elegant. Perfect for evenings out, date nights, or special occasions, this Eau de Parfum suits anyone who loves spicy, woody aromas with creamy sweet undertones. It’s a refined, memorable unisex scent that leaves an impression.<br><br></p>\n<div id=\"shopify-section-template--22872435622200__main\" class=\"shopify-section\">\n<div class=\"vertical product-details product-default\" data-section-id=\"template--22872435622200__main\" data-section-type=\"product\" id=\"ProductSection-template--22872435622200__main\" data-has-combo=\"false\" data-image-opo=\"\">\n<div class=\"productView-bottom\">\n<div class=\"container\">\n<div class=\"tabs-contents tabs-contents-horizontal clearfix halo-text-format\">\n<div class=\"tab-content is-active\" id=\"tab-description\">\n<div class=\"toggle-content is-active show-mobile\" id=\"tab-description-mobile\" data-product-description-10724511908152=\"\">\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"shopify-section-template--22872435622200__product-recommendations\" class=\"shopify-section halo-product-block-sections\">\n<div class=\"halo-block halo-product-block halo-recommendations-block section-block-template--22872435622200__product-recommendations\" id=\"halo-recommendations-block-template--22872435622200__product-recommendations\" data-limit=\"6\" data-layout=\"slider\" data-url=\"/recommendations/products?section_id=template--22872435622200__product-recommendations&amp;product_id=10724511908152&amp;limit=6\" data-image-ratio=\"\" data-swipe=\"false\" data-recommendations-block=\"\">\n<div class=\"wrapper-container container\">\n<div class=\"halo-block-header text-center block-title--style1\"><br></div>\n</div>\n</div>\n</div>\n<p> </p>\n</div>\n</div>\n</div>\n<div class=\"product-details-wrapper\">\n<div class=\"pdp-info-wrap\">\n<div class=\"info-accordion-element\">\n<div class=\"more-detail-wrapper\">\n<div class=\"more-detail-body\">\n<div class=\"more-detail-Row\">\n<div class=\"more-detail-content\"><br></div>\n<div class=\"more-detail-content\"><br></div>\n</div>\n<div class=\"more-detail-Row\">\n<div class=\"more-detail-content\">\n<div class=\"more-link\"><br></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+            "published_at": "2026-07-13T19:00:53+05:30",
+            "created_at": "2026-07-13T18:55:15+05:30",
+            "updated_at": "2026-08-14T15:02:55+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 52636555379000,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA16507",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "17990.00",
+                    "grams": 1100,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 10772845166904,
+                    "created_at": "2026-07-13T18:55:15+05:30",
+                    "updated_at": "2026-08-14T15:02:55+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 66135930896696,
+                    "created_at": "2026-07-13T19:00:20+05:30",
+                    "position": 1,
+                    "updated_at": "2026-07-13T19:00:22+05:30",
+                    "product_id": 10772845166904,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA16507.png?v=1783949422",
+                    "width": 1000,
+                    "height": 1400
+                },
+                {
+                    "id": 66135930863928,
+                    "created_at": "2026-07-13T19:00:20+05:30",
+                    "position": 2,
+                    "updated_at": "2026-07-13T19:00:22+05:30",
+                    "product_id": 10772845166904,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA16507_2.png?v=1783949422",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10772761018680,
+            "title": "Jeanne Arthes Private Club - 100ml",
+            "handle": "christian-dior-sauvage-edt-100ml-copy",
+            "body_html": "<p><span>Whether you’re heading to an important business meeting, a party with friends, or a dinner with your femme fatale, Jeanne Arthes Private Club Eau de Toilette for men will always be a great choice. This fragrance boosts your confidence every time you want to shine.<br><br></span></p>\n<table class=\"czfmaep\" style=\"width: 100%;\">\n<tbody>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\" style=\"width: 50.4673%;\">\n<div class=\"wvs9ouv\">Top notes</div>\n</td>\n<td class=\"c1egxfdy\" style=\"width: 49.2407%;\">Lemon, Bergamot, Black Pepper, Lavender</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\" style=\"width: 50.4673%;\">\n<div class=\"wvs9ouv\">Middle notes</div>\n</td>\n<td class=\"c1egxfdy\" style=\"width: 49.2407%;\">Cedar Wood, Cumin, Nutmeg</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\" style=\"width: 50.4673%;\">\n<div class=\"wvs9ouv\">Base notes</div>\n</td>\n<td class=\"c1egxfdy\" style=\"width: 49.2407%;\">Vetiver, Patchouli, Vanilla</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\" style=\"width: 50.4673%;\">Fragrance category</td>\n<td class=\"c1egxfdy\" style=\"width: 49.2407%;\">spicy, woody</td>\n</tr>\n<tr class=\"c2rwzt\">\n<td class=\"cv0f7r3\" style=\"width: 50.4673%;\">Concentration of the fragrance component</td>\n<td class=\"c1egxfdy\" style=\"width: 49.2407%;\">Eau de Toilette</td>\n</tr>\n</tbody>\n</table>",
+            "published_at": "2026-07-13T15:46:23+05:30",
+            "created_at": "2026-07-13T15:40:56+05:30",
+            "updated_at": "2026-08-14T15:02:55+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 52636104163640,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA16503",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "6500.00",
+                    "grams": 650,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 10772761018680,
+                    "created_at": "2026-07-13T15:40:56+05:30",
+                    "updated_at": "2026-08-14T15:02:55+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 66124990251320,
+                    "created_at": "2026-07-13T15:41:14+05:30",
+                    "position": 1,
+                    "updated_at": "2026-07-13T15:41:16+05:30",
+                    "product_id": 10772761018680,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA16503.png?v=1783937476",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10171436990776,
+            "title": "Lataffa Yara EDP  - 100ml",
+            "handle": "lataffa-yara-edp-100ml",
+            "body_html": "<p>Lattafa<span> </span><em>Yara Pink</em><span> </span>is a vibrant, fruity, and floral fragrance with a playful edge. Launched in 2020, this scent opens with top notes of tangerine, heliotrope, and orchid, offering a sweet and exotic start. The heart features tropical fruit and gourmand accords, which add a delicious and lively touch to the fragrance. The base is grounded with warm and creamy notes of vanilla, musk, and sandalwood, giving it a long-lasting, smooth finish.</p>\n<p><strong>Fragrance Family:</strong><span> </span>Amber Vanilla<br><strong>Top Notes:</strong><span> </span>Tangerine, Heliotrope, Orchid<br><strong>Heart Notes:</strong><span> </span>Tropical Fruits, Gourmand Accord<br><strong>Base Notes:</strong><span> </span>Vanilla, Musk, Sandalwood</p>\n<p><em>Yara Pink</em><span> </span>is often compared to more expensive fruity vanilla fragrances, making it a great alternative for those who want a luxurious scent without the high price. Its playful, sweet nature makes it perfect for casual day wear</p>\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\n<p> </p>",
+            "published_at": "2026-06-30T12:05:51+05:30",
+            "created_at": "2025-09-05T12:52:10+05:30",
+            "updated_at": "2026-08-14T15:02:59+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 51079231865144,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA15933",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "13990.00",
+                    "grams": 650,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 10171436990776,
+                    "created_at": "2025-09-05T12:52:11+05:30",
+                    "updated_at": "2026-08-14T15:02:59+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 53695848513848,
+                    "created_at": "2025-09-05T12:52:31+05:30",
+                    "position": 1,
+                    "updated_at": "2025-09-05T12:52:33+05:30",
+                    "product_id": 10171436990776,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA15933_1.png?v=1757056953",
+                    "width": 1000,
+                    "height": 1400
+                },
+                {
+                    "id": 53695848546616,
+                    "created_at": "2025-09-05T12:52:31+05:30",
+                    "position": 2,
+                    "updated_at": "2025-09-05T12:52:33+05:30",
+                    "product_id": 10171436990776,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA15933.1_1.png?v=1757056953",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9506450178360,
+            "title": "Royal Mirage II EDT - 120ml",
+            "handle": "royal-mirage-ii-edt-120ml",
+            "body_html": "<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\r\n \t<li><span class=\"a-list-item\">Royal Mirage Fragrances</span></li>\r\n \t<li><span class=\"a-list-item\">Top Note</span></li>\r\n \t<li><span class=\"a-list-item\">Middle Note</span></li>\r\n \t<li><span class=\"a-list-item\">Base Note</span></li>\r\n \t<li><span class=\"a-list-item\">About the Brand : Royal Mirage Parfums was launched in the fall of 1980 by owner Mahender M Sabhnani. With its initial launch of the iconic Royal Mirage Original fragrance, the company quickly established itself as a market leader. With a reputation for innovation, research, and quality, the company has introduced dozens of products over the last three decades</span></li>\r\n</ul>\r\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\r\n ",
+            "published_at": "2026-06-19T10:07:44+05:30",
+            "created_at": "2024-07-29T12:14:26+05:30",
+            "updated_at": "2026-08-14T15:02:59+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 49065284305208,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA13138",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "5190.00",
+                    "grams": 650,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 9506450178360,
+                    "created_at": "2024-07-29T12:14:26+05:30",
+                    "updated_at": "2026-08-14T15:02:59+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 46847644139832,
+                    "created_at": "2024-07-29T12:14:26+05:30",
+                    "position": 1,
+                    "updated_at": "2024-07-29T12:14:29+05:30",
+                    "product_id": 9506450178360,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA13138.png?v=1722235469",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10498150596920,
+            "title": "Lattafa Asad Bourbon EDP  - 100ml",
+            "handle": "lattafa-asad-bourbon-edp-100ml",
+            "body_html": "<div id=\"topHighlight\" data-expanded=\"true\" class=\"a-expander-content a-expander-section-content a-section-expander-inner a-expander-content-expanded\">\n<div id=\"feature-bullets\" class=\"a-section a-spacing-medium a-spacing-top-small\">\n<div data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\">\n<div data-expanded=\"false\" class=\"a-expander-content a-expander-partial-collapse-content\">\n<ul class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li class=\"a-spacing-mini\"><span class=\"a-declarative\" data-action=\"voyager-desktop-ns-expander-toggle\" data-voyager-desktop-ns-expander-toggle='{\"columnName\":\"topHighlight\"}'><a aria-expanded=\"true\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-expander-header a-declarative a-expander-section-header a-link-section-expander a-size-medium\" data-a-expander-toggle='{\"allowLinkDefault\":true, \"expand_prompt\":\"\", \"collapse_prompt\":\"\"}'><span class=\"a-expander-prompt\" role=\"heading\" aria-level=\"5\"><span>LATTAFA ASAD BOURBON Eau de Parfum spray is a unisex fragrance that embodies a perfect blend of elegance and sophistication. It opens with vibrant top notes of pink pepper, soothing lavender, and juicy mirabelle, creating an inviting and dynamic start. The heart reveals a warm and intriguing combination of nutmeg, davana, and rich cacao, adding depth and allure. Finally, the base notes of vetiver, amber, and bourbon vanilla provide a luxurious and long-lasting finish. This versatile scent is ideal for anyone seeking a balance of boldness and refinement, making it perfect for any occasion.</span></span></a></span></li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\n<p> </p>",
+            "published_at": "2026-06-01T10:05:07+05:30",
+            "created_at": "2026-03-14T13:10:45+05:30",
+            "updated_at": "2026-08-14T15:03:02+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 51888461152568,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA16823",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "11990.00",
+                    "grams": 650,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 10498150596920,
+                    "created_at": "2026-03-14T13:10:45+05:30",
+                    "updated_at": "2026-08-14T15:03:02+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 60625334894904,
+                    "created_at": "2026-03-14T13:11:05+05:30",
+                    "position": 1,
+                    "updated_at": "2026-03-14T13:11:07+05:30",
+                    "product_id": 10498150596920,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/2_c237bbff-abc3-483d-ae2e-d29de8c63770.png?v=1773474067",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9506315338040,
+            "title": "Hugo Boss Boss The Scent For Him Eau de Toilette  - 100ml",
+            "handle": "hugo-boss-boss-the-scent-for-him-eau-de-toilette-100ml",
+            "body_html": "<b>PRODUCT DETAILS</b>\r\n\r\n<span style=\"color: #6a6e78;font-family: Netto W04 Regular, Tahoma, sans-serif\">Original Authentic Product</span>\r\n\r\n<strong>Hugo Boss Boss The Scent For Him Eau de Toilette</strong> is an exquisite masculine fragrance that achieves the perfect balance between confidence and nonchalance. Aromatic and spicy at the same time, this fragrance embodies the <strong>BOSS</strong> art of seduction by tapping into a feeling of tension and anticipation. Irresistible notes of ginger, mandarin orange, and bergamot open the composition before leading into a sensual heart of lavender and Maninka fruit. At the base, an intense leather accord captures a sense of magnetic masculinity. With its rich amber color and hefty, robust flacon, this fragrance is a masterful orchestration for all the senses, brought to you by perfumers Bruno Jovanovic &amp; Pascal Gaurin. It certainly won't go unnoticed.\r\n<h2>Notes</h2>\r\n<ul>\r\n \t<li>Top notes: ginger, mandarin orange, bergamot;</li>\r\n \t<li>Heart notes: Maninka fruit, lavender;</li>\r\n \t<li>Base notes: leather, woods.</li>\r\n</ul>\r\n<h2>Characteristics</h2>\r\n<ul>\r\n \t<li>Suggested for: men;</li>\r\n \t<li>Family: Aromatic;</li>\r\n \t<li>Created in: 2015;</li>\r\n \t<li>Perfumers: Bruno Jovanovic &amp; Pascal Gaurin.</li>\r\n</ul>\r\n<h4 class=\"pdp-sizeFitDescTitle pdp-product-description-title\">Due To Hygiene Purpose Exchange Is Not Possible Of This Product</h4>\r\n ",
+            "published_at": "2026-03-14T12:28:17+05:30",
+            "created_at": "2024-07-29T10:06:57+05:30",
+            "updated_at": "2026-08-14T15:03:08+05:30",
+            "vendor": "Thilakawardhana",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 49064895807800,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "TA11727",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "22990.00",
+                    "grams": 1100,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 9506315338040,
+                    "created_at": "2024-07-29T10:06:57+05:30",
+                    "updated_at": "2026-08-14T15:03:08+05:30"
+                }
+            ],
+            "images": [
+                {
+                    "id": 46847128666424,
+                    "created_at": "2024-07-29T10:06:57+05:30",
+                    "position": 1,
+                    "updated_at": "2024-07-29T10:07:00+05:30",
+                    "product_id": 9506315338040,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0884/9873/3368/files/TA11727.png?v=1722227820",
+                    "width": 1000,
+                    "height": 1400
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        }
+    ]
+}
